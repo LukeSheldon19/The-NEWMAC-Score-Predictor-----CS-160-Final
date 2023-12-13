@@ -11,11 +11,15 @@ A big part of our motivation for choosing this project was that we are all part 
 Team at Clark, and have noticed first hand how statistics are having more of an impact on
 the beautiful game than ever before.
 
-Below are the final results(0 = Loss, 1 = Draw, 2 = Win):
+<ins>Below are the final results(0 = Loss, 1 = Draw, 2 = Win):</ins>
 
 Schedule:
 
 ![image](https://github.com/LukeSheldon19/The-NEWMAC-Score-Predictor-----CS-160-Final/assets/131008107/318b5f91-408e-4dfd-a617-30df3b2d06a9)
+
+Logistic Regression Model:
+
+MultiClass:
 
 
 
