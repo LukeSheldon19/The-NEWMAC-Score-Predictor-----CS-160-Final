@@ -11,7 +11,7 @@ A big part of our motivation for choosing this project was that we are all part 
 Team at Clark, and have noticed first hand how statistics are having more of an impact on
 the beautiful game than ever before.
 
-Below are the final results:
+Below are the final results(0 = Loss, 1 = Draw, 2 = Win):
 
 Schedule:
 
