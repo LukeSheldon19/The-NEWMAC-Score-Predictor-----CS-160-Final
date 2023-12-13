@@ -21,5 +21,27 @@ the beautiful game than ever before.
 
 MultiClass:
 
+![image](https://github.com/LukeSheldon19/The-NEWMAC-Score-Predictor-----CS-160-Final/assets/131008107/8631572a-4107-4fc5-8226-e2a197e9bef8)
+
+Binary:
+
+![image](https://github.com/LukeSheldon19/The-NEWMAC-Score-Predictor-----CS-160-Final/assets/131008107/aa30753a-644f-4326-b911-a26c006901d3)
+
+<ins>Decision Tree Model:</ins>
+
+![image](https://github.com/LukeSheldon19/The-NEWMAC-Score-Predictor-----CS-160-Final/assets/131008107/51d6705f-fa32-43b5-be6c-96ebf7646cb9)
+
+<ins>Random Forest Model:</ins>
+
+![image](https://github.com/LukeSheldon19/The-NEWMAC-Score-Predictor-----CS-160-Final/assets/131008107/ac839bf8-4f79-472b-beaf-63725aef9216)
+
+
+
+
+
+
+
+
+
 
 
