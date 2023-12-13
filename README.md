@@ -13,5 +13,9 @@ the beautiful game than ever before.
 
 Below are the final results:
 
-![image](https://github.com/LukeSheldon19/The-NEWMAC-Score-Predictor-----CS-160-Final/assets/131008107/e214b52d-e38d-4335-9772-2619f44ed5db)
+Schedule:
+
+![image](https://github.com/LukeSheldon19/The-NEWMAC-Score-Predictor-----CS-160-Final/assets/131008107/318b5f91-408e-4dfd-a617-30df3b2d06a9)
+
+
 
